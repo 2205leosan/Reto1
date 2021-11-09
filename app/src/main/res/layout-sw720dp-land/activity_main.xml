@@ -35,16 +35,16 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="JUGAR"
-            android:textSize="60sp"
+            android:text="@string/text_play"
+            android:textSize="30sp"
             android:paddingTop="10dp"
             android:layout_marginBottom="40dp"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ACERCA DE"
-            android:textSize="60sp"
+            android:text="@string/text_setting"
+            android:textSize="30sp"
             android:paddingTop="10dp"
             android:layout_marginTop="25sp"/>
 
@@ -65,16 +65,16 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="AJUSTES"
-            android:textSize="60sp"
+            android:text="@string/text_profile"
+            android:textSize="30sp"
             android:paddingTop="10dp"
             android:layout_marginBottom="40dp"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ACERCA DE"
-            android:textSize="60sp"
+            android:text="@string/text_about"
+            android:textSize="30sp"
             android:paddingTop="10dp"
             android:layout_marginTop="30dp"/>
 

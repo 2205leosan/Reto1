@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Reto1</string>
+    <string name="text_play">Play</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_setting">Settings</string>
+    <string name="text_about">About</string>
+
 </resources>

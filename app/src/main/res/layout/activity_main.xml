@@ -32,7 +32,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="JUGAR"
+            android:text="@string/text_play"
             android:textSize="40sp"
             android:paddingTop="10dp"
             android:layout_marginTop="25sp"/>
@@ -40,7 +40,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="PERFIL"
+            android:text="@string/text_profile"
             android:paddingTop="10dp"
             android:textSize="40sp"
             android:layout_marginTop="25sp"/>
@@ -49,7 +49,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="AJUSTES"
+            android:text="@string/text_setting"
             android:textSize="40sp"
             android:paddingTop="10dp"
             android:layout_marginTop="25sp"/>
@@ -57,7 +57,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ACERCA DE"
+            android:text="@string/text_about"
             android:textSize="40sp"
             android:paddingTop="10dp"
             android:layout_marginTop="25sp"/>
